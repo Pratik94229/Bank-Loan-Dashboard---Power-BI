@@ -8,6 +8,18 @@ The data for this project is taken from the bank's loan management system. It in
 Overview
 The overview page provides a high-level summary of the bank's loan portfolio. It includes the total loan amount, number of loans, and loan status distribution. The visualizations on this page help the bank managers to get a quick overview of the loan portfolio and identify any trends or patterns.
 
+[url=https://postimg.cc/sB4w9X0K][img]https://i.postimg.cc/sB4w9X0K/Screenshot-1.jpg[/img][/url]
+
+[url=https://postimg.cc/vDB3fG7L][img]https://i.postimg.cc/vDB3fG7L/Screenshot-2.jpg[/img][/url]
+
+[url=https://postimg.cc/Q9NS632D][img]https://i.postimg.cc/Q9NS632D/Screenshot-3.jpg[/img][/url]
+
+[url=https://postimg.cc/5Q6gVm9k][img]https://i.postimg.cc/5Q6gVm9k/Screenshot-4.jpg[/img][/url]
+
+[url=https://postimg.cc/jw8cm1T7][img]https://i.postimg.cc/jw8cm1T7/Screenshot-5.jpg[/img][/url]
+
+
+
 ### Loan Performance
 The loan performance page provides a detailed analysis of the bank's loan portfolio. It includes visualizations that show the loan status distribution by loan amount, borrower's credit score, and loan type. The visualizations on this page help the bank managers to identify the loans that are performing well and the loans that are at risk of default.
 
