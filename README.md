@@ -8,15 +8,12 @@ The data for this project is taken from the bank's loan management system. It in
 Overview
 The overview page provides a high-level summary of the bank's loan portfolio. It includes the total loan amount, number of loans, and loan status distribution. The visualizations on this page help the bank managers to get a quick overview of the loan portfolio and identify any trends or patterns.
 
-[url=https://postimg.cc/sB4w9X0K][img]https://i.postimg.cc/sB4w9X0K/Screenshot-1.jpg[/img][/url]
+<a href="https://postimg.cc/sB4w9X0K" target="_blank"><img src="https://i.postimg.cc/yNwtK3hq/Screenshot-1.jpg" alt="Screenshot-1"/></a><br/><br/>
+<a href="https://postimg.cc/vDB3fG7L" target="_blank"><img src="https://i.postimg.cc/MZ0NkTv4/Screenshot-2.jpg" alt="Screenshot-2"/></a><br/><br/>
+<a href="https://postimg.cc/Q9NS632D" target="_blank"><img src="https://i.postimg.cc/cHwjL1Tv/Screenshot-3.jpg" alt="Screenshot-3"/></a><br/><br/>
+<a href="https://postimg.cc/5Q6gVm9k" target="_blank"><img src="https://i.postimg.cc/2yxKnHsm/Screenshot-4.jpg" alt="Screenshot-4"/></a><br/><br/>
+<a href="https://postimg.cc/jw8cm1T7" target="_blank"><img src="https://i.postimg.cc/Bb3zLWwM/Screenshot-5.jpg" alt="Screenshot-5"/></a><br/><br/>
 
-[url=https://postimg.cc/vDB3fG7L][img]https://i.postimg.cc/vDB3fG7L/Screenshot-2.jpg[/img][/url]
-
-[url=https://postimg.cc/Q9NS632D][img]https://i.postimg.cc/Q9NS632D/Screenshot-3.jpg[/img][/url]
-
-[url=https://postimg.cc/5Q6gVm9k][img]https://i.postimg.cc/5Q6gVm9k/Screenshot-4.jpg[/img][/url]
-
-[url=https://postimg.cc/jw8cm1T7][img]https://i.postimg.cc/jw8cm1T7/Screenshot-5.jpg[/img][/url]
 
 
 
