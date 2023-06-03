@@ -7,11 +7,15 @@ The data for this project is taken from the bank's loan management system. It in
 ## Pages
 Overview
 The overview page provides a high-level summary of the bank's loan portfolio. It includes the total loan amount, number of loans, and loan status distribution. The visualizations on this page help the bank managers to get a quick overview of the loan portfolio and identify any trends or patterns.
-
+##                                                       Page 1
 <a href="https://postimg.cc/sB4w9X0K" target="_blank"><img src="https://i.postimg.cc/yNwtK3hq/Screenshot-1.jpg" alt="Screenshot-1"/></a><br/><br/>
+##                                                         Page 2
 <a href="https://postimg.cc/vDB3fG7L" target="_blank"><img src="https://i.postimg.cc/MZ0NkTv4/Screenshot-2.jpg" alt="Screenshot-2"/></a><br/><br/>
+##                                                        Page 3
 <a href="https://postimg.cc/Q9NS632D" target="_blank"><img src="https://i.postimg.cc/cHwjL1Tv/Screenshot-3.jpg" alt="Screenshot-3"/></a><br/><br/>
+##                                                         Page 4
 <a href="https://postimg.cc/5Q6gVm9k" target="_blank"><img src="https://i.postimg.cc/2yxKnHsm/Screenshot-4.jpg" alt="Screenshot-4"/></a><br/><br/>
+##                                                         Page 5
 <a href="https://postimg.cc/jw8cm1T7" target="_blank"><img src="https://i.postimg.cc/Bb3zLWwM/Screenshot-5.jpg" alt="Screenshot-5"/></a><br/><br/>
 
 
